@@ -31,7 +31,7 @@
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/RACKN4R0K/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/Piovsk/count.svg" />
  </p>
 
 </p>
