@@ -25,7 +25,7 @@
    
  
  
- ![Snake animation](https://github.com/Piovsk/Piovsk/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Piovsk/Piovsk/github-contribution-grid-snake.svg)
  
  <p align="center"> 
 
